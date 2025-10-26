@@ -23,7 +23,9 @@ body {
         letter-spacing: 2px;
         color: #252525;
     }
-
+.hidden-heading {
+    display: none;
+}
 /*Header*/
 header {
     background-color: #ffffff;
